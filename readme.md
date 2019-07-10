@@ -1,0 +1,2 @@
+this quiz application is created using javascript. Its has interactive user interface that allows using to select 
+one answer among multiple options. At the end the scores obtained by the user is displayed on the screen.
